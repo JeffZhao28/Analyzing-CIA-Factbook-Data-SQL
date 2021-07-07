@@ -1,2 +1,2 @@
 # Analyzing CIA Factbook Data with SQL
-Analyzed data from the CIA World Factbook with a focus on population.
+In this project, we're going to analyze data from the CIA World Factbook (2015), a compendium of statistics about all of the countries on Earth. The Factbook contains various demographic and geographic information. The information we will be focusing the most on in this project will be the population. From there, we will do an in depth analysis regarding the population density and rate of natural increase.
